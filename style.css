@@ -50,7 +50,7 @@ body {
 	
     .picc,.cer{
      width: 50%;
-     
+     float:right;
      height:300px;
    }
    
